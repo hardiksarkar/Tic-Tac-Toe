@@ -92,23 +92,23 @@ public class TicTacToe extends Application {
             // check rows
             if(buttons[i][0].getText().equals(buttons[i][1].getText()) && buttons[i][1].getText().equals(buttons[i][2].getText())
             && !buttons[i][0].getText().isEmpty()){
-                showInnerDialog(buttons[i][0].getText());
                 scoreUpdate(buttons[i][0].getText());
+                showInnerDialog(buttons[i][0].getText());
                 return;
             }
             // check columns
             if(buttons[0][i].getText().equals(buttons[1][i].getText()) && buttons[1][i].getText().equals(buttons[2][i].getText())
                     && !buttons[0][i].getText().isEmpty()){
-                showInnerDialog(buttons[0][i].getText());
                 scoreUpdate(buttons[0][i].getText());
+                showInnerDialog(buttons[0][i].getText());
                 return;
             }
             // check diagonals
             if(((buttons[0][0].getText().equals(buttons[1][1].getText()) && buttons[1][1].getText().equals(buttons[2][2].getText()))
             || (buttons[0][2].getText().equals(buttons[1][1].getText()) && buttons[1][1].getText().equals(buttons[2][0].getText())))
                     && !buttons[1][1].getText().isEmpty()){
-                showInnerDialog(buttons[1][1].getText());
                 scoreUpdate(buttons[1][1].getText());
+                showInnerDialog(buttons[1][1].getText());
                 return;
             }
         }
@@ -130,6 +130,7 @@ public class TicTacToe extends Application {
         checkTie=0;
         alert.setHeaderText(null);
         alert.showAndWait();
+        resetBoard();
     }
 
     private void scoreUpdate(String winner){        // Update score of winner
@@ -140,7 +141,6 @@ public class TicTacToe extends Application {
             playerOScore++;
             playerOScoreLabel.setText("Player O : "+playerOScore);  // O score update
         }
-        resetBoard();
     }
 
     // reset board
