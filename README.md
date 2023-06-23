@@ -22,11 +22,11 @@ This is a JavaFX implementation of the popular Tic-Tac-Toe game. The game provid
 
 ## Screenshots
 
-<img src="https://drive.google.com/uc?export=view&id=1z1CfOiKW8_YfHofWROi5PC0D4vIZwtKT" alt="Screenshot 1" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1z1CfOiKW8_YfHofWROi5PC0D4vIZwtKT" alt="Screenshot 1" width="300">
 
-<img src="https://drive.google.com/uc?export=view&id=1iRzX6FuBa7fsnhz7itByhxOjYWGbtoO_" alt="Screenshot 2" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1iRzX6FuBa7fsnhz7itByhxOjYWGbtoO_" alt="Screenshot 2" width="300">
 
-<img src="https://drive.google.com/uc?export=view&id=1ATFSE4DUbv5LCOUJbSETi5yINtQovc5t" alt="Screenshot 3" width="400">
+<img src="https://drive.google.com/uc?export=view&id=1ATFSE4DUbv5LCOUJbSETi5yINtQovc5t" alt="Screenshot 3" width="300">
 
 ## End Message
 
