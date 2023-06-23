@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-This is a JavaFX implementation of the popular Tic-Tac-Toe game. The game provides a graphical user interface where two players can play against each other.
+This is a JavaFX implementation of the popular Tic-Tac-Toe game. The game provides a graphical user interface where two players can play against each other marking their moves on a 3x3 grid until a winner is determined or the game ends in a tie.
 
 ## Technologies Used
 - JavaFX
@@ -22,3 +22,7 @@ This is a JavaFX implementation of the popular Tic-Tac-Toe game. The game provid
 
 ## Screenshots
 ![Game Screenshot](/screenshots/game_screenshot.png)
+
+## End Message
+
+Thank you for playing the Tic-Tac-Toe game! We hope you enjoyed it and had fun. Feel free to provide any feedback or suggestions.
