@@ -21,7 +21,11 @@ This is a JavaFX implementation of the popular Tic-Tac-Toe game. The game provid
 - Reset button to start a new game.
 
 ## Screenshots
-![Game Screenshot](/screenshots/game_screenshot.png)
+![Screenshot 1](https://drive.google.com/uc?export=view&id=1z1CfOiKW8_YfHofWROi5PC0D4vIZwtKT)
+
+![Screenshot 2](https://drive.google.com/uc?export=view&id=1iRzX6FuBa7fsnhz7itByhxOjYWGbtoO_)
+
+![Screenshot 3](https://drive.google.com/uc?export=view&id=1ATFSE4DUbv5LCOUJbSETi5yINtQovc5t)
 
 ## End Message
 
